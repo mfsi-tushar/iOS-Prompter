@@ -23,3 +23,6 @@ Prompter* prompterAlert = [[Prompter alloc] init];
 ```
 That's All!
 
+![Alt text](/landscape_screenshot.png?raw=true "Screen Shot")
+![Alt text](/portrait_screenshot.png?raw=true "Screen Shot")
+
