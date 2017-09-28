@@ -24,5 +24,8 @@ Prompter* prompterAlert = [[Prompter alloc] init];
 That's All!
 
 ![Alt text](/landscape_screenshot.png?raw=true "Screen Shot")
+Landscape Orientation
+<br><br><br><br><br><br><br><br><br><br><br><br>
 ![Alt text](/portrait_screenshot.png?raw=true "Screen Shot")
+Portrait Orientation
 
